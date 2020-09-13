@@ -1,0 +1,50 @@
+/* WPW Shortcode */
+
+.cpw-sc {
+}
+
+/* WPW Main */
+
+.cpw-main {
+  text-align: center;
+}
+
+.cpw-main__temp {
+  font-size: 4rem;
+  display: block;
+}
+
+.cpw-main__city {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.cpw-main__icon {
+  display: inline-block;
+  width: 8rem;
+  height: 8rem;
+}
+
+/* WPW Details */
+
+.cpw-detail {
+  display: block;
+}
+
+.cpw-detail__details {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.cpw-detail__details__description {
+  display: block;
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.cpw-detail__details__content {
+  display: block;
+}

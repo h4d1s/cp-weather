@@ -1,0 +1,12 @@
+.cpw-widget {
+}
+
+.cpw-widget__icon {
+  width: 4.5rem;
+  height: 4.5rem;
+}
+
+.cpw-widget__city {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
